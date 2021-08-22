@@ -1,3 +1,7 @@
+weights
+.json
+.txt
+.hdf5
 .DS_Store
 notebooks
 homer.txt

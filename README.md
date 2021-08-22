@@ -18,3 +18,8 @@ Deploy
 ```
 gcloud run deploy --image gcr.io/<PROJECT_ID>/poetryapp
 ```
+# <h2>Flask CLI reference </h2>
+```
+export FLASK_APP=main
+flask run
+```
