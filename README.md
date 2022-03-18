@@ -3,6 +3,9 @@ Restful poetry is a minimalistic server under development that provides restful 
 
 # <h2>Current API endpoints </h2>
 
+<b> /generate (WIP) </b>:
+Generates text based on existing model of poetry (currently Edgar Allen Poe) 
+
 <b> /emotion</b>:
 Assigns emotional scores to text.
 
